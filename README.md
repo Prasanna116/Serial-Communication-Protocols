@@ -16,7 +16,8 @@ UART is a **full-duplex, asynchronous** serial communication protocol.
 - Configurable **baud rate generator**.  
 - **APB master/slave integration** for system-level testing.  
 - Verified with **loopback testbench**.  
-
+  
+<img width="392" height="128" alt="image" src="https://github.com/user-attachments/assets/e358b660-65bf-4a7e-beb3-a7866d148348" />
 ---
 
 ### 2. **SPI (Serial Peripheral Interface)**  
@@ -29,8 +30,9 @@ SPI is a **synchronous, full-duplex** communication protocol used between a sing
 - Supports all **4 SPI modes** (CPOL, CPHA).  
 - Parameterizable **clock divider** for SCLK generation.  
 - Full-duplex **Master-Slave communication**.  
-- Verified with testbenches for data transfer across all modes.  
-
+- Verified with testbenches for data transfer across all modes.
+  
+<img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/1df5c4e5-f1f6-402e-8307-40c322622c64" />
 ---
 
 ### 3. **I2C (Inter-Integrated Circuit)**  
@@ -46,6 +48,9 @@ I2C is a **synchronous, half-duplex, multi-master, multi-slave** protocol using 
 - Supports **7-bit addressing**.  
 - Handles **ACK/NACK** conditions properly.  
 - Data transfer synchronized with **SCL** (edge-based sampling).  
+
+<img width="195" height="258" alt="image" src="https://github.com/user-attachments/assets/19175570-b46e-4413-a05d-7c2907420505" />
+
 
 ---
 
