@@ -53,7 +53,3 @@ This project presents the design and verification of Serial Communication Protoc
 - **Version Control**: Git + GitHub  
 
 ---
-
-
-# Simulate
-vsim UART_tb
